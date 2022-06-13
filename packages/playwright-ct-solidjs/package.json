@@ -1,6 +1,6 @@
 {
   "name": "playwright-ct-solidjs",
-  "version": "1.22.2",
+  "version": "1.22.3",
   "description": "Playwright Component Testing for SolidJS",
   "repository": "github:pawelblaszczyk5/playwright-ct-solidjs",
   "homepage": "https://github.com/pawelblaszczyk5/playwright-ct-solidjs",
@@ -10,6 +10,13 @@
   "author": {
     "name": "Paweł Błaszczyk"
   },
+  "keywords": [
+    "solid",
+    "solidjs",
+    "ui",
+    "playwright",
+    "testing"
+  ],
   "license": "MIT",
   "exports": {
     ".": {
