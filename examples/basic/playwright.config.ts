@@ -1,4 +1,3 @@
-// playwright.config.ts
 import { PlaywrightTestConfig, devices } from "@playwright/test";
 
 const config: PlaywrightTestConfig = {
