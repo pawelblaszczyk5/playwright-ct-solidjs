@@ -1,0 +1,23 @@
+{
+  "name": "playwright-solidjs",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Playwright Component Testing for SolidJS",
+  "workspaces": [
+    "packages/*",
+    "examples/*"
+  ],
+  "scripts": {
+    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tsconfig/strictest": "^1.0.1",
+    "prettier": "^2.6.2"
+  }
+}
